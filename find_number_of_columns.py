@@ -12,7 +12,7 @@ def find_number_of_columns(data):
     a=[]
     for i in f:
         a.append(i)
-    return len (a)
+    return len (i)
 print(find_number_of_columns("data.csv"))
 
 # Read the csv file
